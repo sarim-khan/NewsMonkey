@@ -1,3 +1,8 @@
+# Screenshot :
+
+![Screenshot (242)](https://github.com/sarim-khan/NewsMonkey/assets/98181229/12a0973d-6b06-4e8a-95eb-17d29ef1d040)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
